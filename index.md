@@ -2,6 +2,10 @@
 title: 一元机场官网，一元机场登录地址
 description: 一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。
 keywords: VPN, 一元机场, 中国VPN, 科学上网, 免费VPN, 翻墙, 稳定VPN, 机场, 跨境网络, 海外华人VPN
+head:
+  - - link
+    - rel: canonical
+      href: https://1yuan.uk
 ---
 
 # 一元机场
