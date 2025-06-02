@@ -278,6 +278,29 @@ import { ref } from 'vue'
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title">FlyBit</div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度： 不限速
+- 设备数：无限制
+
+使用说明
+
+1. ✅️ 月付12 | 季付33 | 半年63 | 年付120
+2. ✅️ 流量：100GB/月
+3. ✅️ 设备：不限制，支持家庭成员共享
+4. ✅️ 媒体：解锁流媒体,ChatGPT
+5. ✅️ 传输：SS协议 | Secure隧道
+6. 🚫 仅限个人使用暂不支持退款
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">狗狗加速</div>
   <div class="pricing-price">¥15.80 <span class="pricing-unit">每月</span></div>
   <a href="https://down.dginv.click/#/register?code=El5yzgZo" target="_blank" class="buy-button">
@@ -324,6 +347,9 @@ import { ref } from 'vue'
 5. **<span style="color: red;">💛优惠：年付17元/月</span>**
 6. **<span style="color: red;">💛24小時3G流量試用丨滿意後購買</span>**
 </div>
+
+
+
 
 <div class="pricing-card">
   <div class="pricing-title">CHCC</div>
