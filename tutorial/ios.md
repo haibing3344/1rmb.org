@@ -17,13 +17,11 @@ Shadowrocket是一个用于iOS系统的收费代理软件，可以在**非中国
     
     -   [https://free.iosapp.icu](https://free.iosapp.icu/)
     -   [https://idfree.top](https://idfree.top/)
-    -   [https://idshare.me](https://idshare.me/)
 -   如共享账号无法使用，建议自行购买外区带有 Shadowrocket 的账号，**以后可以永久使用**。
     
     推荐商家：
     
     -   [水果商店](https://applego.win)
-    -   [小火箭吧](https://xiaohuojian8.com/aff/5305.html)
 
 以下教程将提供Shadowrocket最基础的使用方法。
 

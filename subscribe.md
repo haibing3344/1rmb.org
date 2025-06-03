@@ -131,6 +131,28 @@ import { ref } from 'vue'
 6. 在线设备最多5人
 </div>
 
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
+  <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
+  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：800Mbps
+- 设备数：不限制
+
+使用说明
+
+1. 流量: 100GB 丨每月订单日重置
+2. BGP＋中转线路丨800M带宽保障
+3. 不限设备使用
+4. 7x24在线客户服务支持
+5. 解锁: Netflix, Disney+, ChatGPT 等
+
+</div>
 
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
