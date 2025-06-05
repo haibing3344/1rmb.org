@@ -10,17 +10,17 @@ export default defineConfig({
   ],
   themeConfig: {
     nav: [
-      { text: "下载", link: "/download" },
+      { text: "下载", link: "/download.md" },
       { 
         text: "教程", 
         items: [
-          { text: "安卓教程", link: "/tutorial/android" },
-          { text: "iOS教程", link: "/tutorial/ios" },
-          { text: "Windows教程", link: "/tutorial/windows" },
-          { text: "Mac教程", link: "/tutorial/macos" }
+          { text: "安卓教程", link: "/tutorial/android.md" },
+          { text: "iOS教程", link: "/tutorial/ios.md" },
+          { text: "Windows教程", link: "/tutorial/windows.md" },
+          { text: "Mac教程", link: "/tutorial/macos.md" }
         ]
       },
-      { text: "订阅", link: "/subscribe" },
+      { text: "订阅", link: "/subscribe.md" },
       { text: '登录/注册', link: 'https://suola.link/w' }
 
     ],
@@ -28,18 +28,18 @@ export default defineConfig({
       {
         text: '快速开始',
         items: [
-          { text: '下载', link: '/download' },
+          { text: '下载', link: '/download.md' },
           { 
             text: '教程', 
             collapsed: false,
             items: [
-              { text: "安卓教程", link: "/tutorial/android" },
-              { text: "iOS教程", link: "/tutorial/ios" },
-              { text: "Windows教程", link: "/tutorial/windows" },
-              { text: "Mac教程", link: "/tutorial/macos" }
+              { text: "安卓教程", link: "/tutorial/android.md" },
+              { text: "iOS教程", link: "/tutorial/ios.md" },
+              { text: "Windows教程", link: "/tutorial/windows.md" },
+              { text: "Mac教程", link: "/tutorial/macos.md" }
             ] 
           },
-          { text: '订阅', link: '/subscribe' },
+          { text: '订阅', link: '/subscribe.md' },
         ]
       }
     ],
