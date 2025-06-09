@@ -278,7 +278,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://inv01.ffaff.cc/register?aff=WQApz2pv" target="_blank" class="buy-button">
+  <a href="https://inv02.ffaff.cc/register?aff=WQApz2pv" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
