@@ -31,7 +31,7 @@ import { ref } from 'vue'
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
 
 
-## 靠谱机场推荐：
+## 性价比机场推荐：
 
 <div class="pricing-container">
 
@@ -272,7 +272,7 @@ import { ref } from 'vue'
 </div>
 </div>
 
-## 优质机场推荐：
+## 优质靠谱机场推荐：
 
 <div class="pricing-container">
 <div class="pricing-card">
