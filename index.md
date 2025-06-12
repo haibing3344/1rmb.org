@@ -38,10 +38,13 @@ head:
 
 ## 友情链接
 
-- [机场推荐](https://jichangtuijian.uk/) - 便宜好用的翻墙机场推荐
+- [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙性价比机场推荐
+- [Clash Verge Rev](https://clash-verge-rev.org/) - 跨平台代理客户端
+- [一元机场](https://1yuan.uk/) - 提供高速稳定的网络服务
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
-- [Clash Verge Rev](https://clash-verge-rev.org) - Clash Verge 的延续,翻墙必备工具
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端。
 - [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
 - [Shadowrocket](https://shadowrocket.uk) - iOS 专业网络工具
-- [Karing](https://karing.uk) - 新一代网络代理工具
+- [Karing](https://karing.uk) - 新一代网络代理工具,免费
+- [Stash](https://stashapp.uk) - 简单且强大的网络工具
+- [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
