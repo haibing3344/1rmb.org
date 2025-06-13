@@ -16,6 +16,18 @@ head:
 - **iOS**：App Store | [下载链接](https://apps.apple.com/us/app/shadowrocket/id932747118)
 - **Android**：APK直装 | [下载链接](https://xn--4gq62f52gdss.com/down/clash.apk)
 
+::: warning 注意
+-   iOS客户端需要使用境外 Apple ID 才能下载。以下是公益共享 Apple ID 网站推荐：
+    
+    -   [https://idshare001.me/applego.html](https://idshare001.me/applego.html)
+    -   [https://id001.me/applego.html](https://id001.me/applego.html)
+-   如共享账号无法使用，建议自行购买外区带有 Shadowrocket 的账号，**以后可以永久使用**。
+
+    推荐商家：
+    
+    -   [水果商店](https://applego.win)
+:::
+
 ## 安装指南
 1. 下载对应平台的客户端。
 2. 运行安装程序，按提示完成安装。
@@ -31,5 +43,5 @@ head:
 
 - 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
 - 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://www.tntyun.cc/#/register?code=GtjJVgml)<br>
-
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
 :::
