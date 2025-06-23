@@ -475,7 +475,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">旗舰款套餐-大流量</div>
   <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
+  <a href="https://my.cloudlion.me/#/register?code=hUuk650e" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
