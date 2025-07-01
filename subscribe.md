@@ -14,6 +14,8 @@ import { ref } from 'vue'
 
 # 一元机场套餐｜选择最适合您的计划
 一元机场提供多种套餐供您选择，根据您的需求和预算选择合适的套餐。
+
+
 ::: tip 注意事项
 - 套餐价格会根据套餐的流量、速度和设备数而有所不同。
 - 根据您的需求和预算选择合适的套餐。
@@ -134,7 +136,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
   <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -299,6 +301,29 @@ import { ref } from 'vue'
 5. 无设备和ip限制。
 6. 1000Mbps速率，晚高峰不限速。
 7. 专业人工客服，快速响应。
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">扬帆云</div>
+  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">💛限时年付7折优惠</span>**
+- 流量：100 GB
+- 速度：200M
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
 </div>
 
 <div class="pricing-card">
@@ -516,6 +541,10 @@ import { ref } from 'vue'
 3. 4K视频秒开
 4. 回国家宽，新疆可用，游戏专用节点
 5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
+</div>
+
+<div class="pricing-card">
+
 </div>
 </div>
 
