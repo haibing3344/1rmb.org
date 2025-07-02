@@ -402,7 +402,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://inv03.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
