@@ -475,6 +475,29 @@ import { ref } from 'vue'
 
 ## 大流量机场推荐：
 <div class="pricing-container">
+
+<div class="pricing-card">
+  <div class="pricing-title">网际快车</div>
+  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
+  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：20 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. 流量永不过期
+2. 不限设备数量
+3. 4K视频秒开
+4. 回国家宽，新疆可用，游戏专用节点
+5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
+</div>
+
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
@@ -519,28 +542,6 @@ import { ref } from 'vue'
 5. ⚡️ 高达1Gbps的极速体验
 6. 🔓 解锁全球流媒体，畅享无阻
 7. 适合追剧、下载等对流量需求较大的同学使用
-</div>
-
-<div class="pricing-card">
-  <div class="pricing-title">网际快车</div>
-  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：20 GB
-- 速度：不限速
-- 设备数：无限制
-
-使用说明
-
-1. 流量永不过期
-2. 不限设备数量
-3. 4K视频秒开
-4. 回国家宽，新疆可用，游戏专用节点
-5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
 </div>
 
 <div class="pricing-card">
