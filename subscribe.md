@@ -520,33 +520,6 @@ import { ref } from 'vue'
 5. ✅不限制网络速度
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title">旗舰款套餐-大流量</div>
-  <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=hUuk650e" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：1 T 
-- 速度：1000 Mbps
-- 设备数：无限制
-
-使用说明
-
-1. 🚀 优质机场领先者，畅享极速网络
-2. 🍬 每月送你1T甜甜的流量
-3. 🖥 集群部署，保障稳定与高性能
-4. 📱 支持多设备连接，无需限制
-5. ⚡️ 高达1Gbps的极速体验
-6. 🔓 解锁全球流媒体，畅享无阻
-7. 适合追剧、下载等对流量需求较大的同学使用
-</div>
-
-<div class="pricing-card">
-
-</div>
 </div>
 
 
