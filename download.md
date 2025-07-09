@@ -25,7 +25,7 @@ head:
 
     推荐商家：
     
-    -   [水果商店](https://applego.win)
+    -   [水果商店](https://applego.idbb.me)
 :::
 
 ## 安装指南
