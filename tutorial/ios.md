@@ -21,7 +21,7 @@ Shadowrocket是一个用于iOS系统的收费代理软件，可以在**非中国
 
     推荐商家：
     
-    -   [水果商店](https://applego.win)
+    -   [水果商店](https://appleshop.win)
 
 以下教程将提供Shadowrocket最基础的使用方法。
 
