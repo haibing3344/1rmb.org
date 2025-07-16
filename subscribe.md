@@ -607,32 +607,6 @@ import { ref } from 'vue'
 5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title">新狮云</div>
-  <div class="pricing-price">¥12.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：1 T
-- 速度：不限速
-- 设备数：无限制
-
-使用说明
-
-1. 💰 流量 1T｜年付约 ¥129.9 🎁
-2. 🚀 优质机场领先者，畅享极速网络
-3. 🍬 每月送你 1T 甜甜的流量
-4. 🖥 集群部署，保障稳定与高性能
-5. 📱 支持多设备连接，无需限制
-6. ⚡️ 高达 1Gbps 的极速体验
-7. 🔓 解锁全球流媒体，畅享无阻
-8. 🛠 无技术支持，请查看使用教程
-9. 📌 无法使用时的排查流程
-10. ❌ 请遵守使用政策，避免不当行为
-</div>
 
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
