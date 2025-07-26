@@ -5,7 +5,7 @@ keywords: VPN, 一元机场, 中国VPN, 科学上网, 免费VPN, 翻墙, 稳定V
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.uk
+      href: https://1yuan.win
 ---
 
 # 一元机场
@@ -40,7 +40,7 @@ head:
 
 - [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙性价比机场推荐
 - [Clash Verge Rev](https://clash-verge-rev.org/) - 跨平台代理客户端
-- [一元机场](https://1yuan.uk/) - 提供高速稳定的网络服务
+- [一元机场](https://1yuan.win/) - 提供高速稳定的网络服务
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端。
 - [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具

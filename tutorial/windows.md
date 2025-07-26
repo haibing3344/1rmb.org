@@ -5,7 +5,7 @@ keywords: 一元机场Windows教程,Clash for Windows配置,Windows科学上网,
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.uk/tutorial/windows.html
+      href: https://1yuan.win/tutorial/windows.html
 ---
 # 一元机场windows客户端使用教程
 

@@ -5,7 +5,7 @@ keywords: 一元机场Mac教程,ClashX配置,Mac科学上网,MacOS VPN设置,Cla
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.uk/tutorial/macos.html
+      href: https://1yuan.win/tutorial/macos.html
 ---
 
 # 一元机场-MacOS客户端使用教程

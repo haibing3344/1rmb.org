@@ -76,7 +76,7 @@ export default defineConfig({
 cleanUrls: false, // 禁用干净URL，保留.html后缀
   // 站点地图
   sitemap: {
-    hostname: 'https://1yuan.uk'
+    hostname: 'https://1yuan.win'
   }
 
 })

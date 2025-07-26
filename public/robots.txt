@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /assets/
 
-Sitemap: https://1yuan.uk/sitemap.xml
+Sitemap: https://1yuan.win/sitemap.xml

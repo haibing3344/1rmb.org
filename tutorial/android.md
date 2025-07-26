@@ -5,7 +5,7 @@ keywords: 一元机场教程,Clash for Android配置,Android VPN设置,科学上
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.uk/tutorial/android.html
+      href: https://1yuan.win/tutorial/android.html
 ---
 # 一元机场-Android客户端使用教程
 

@@ -5,7 +5,7 @@ keywords: 一元机场下载, VPN客户端, 科学上网工具
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.uk/download.html
+      href: https://1yuan.win/download.html
 ---
 
 # 一元机场客户端下载

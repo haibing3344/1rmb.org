@@ -5,7 +5,7 @@ keywords: 一元机场订阅, VPN套餐, 科学上网付费
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.uk/subscribe.html
+      href: https://1yuan.win/subscribe.html
 ---
 
 <script setup>
