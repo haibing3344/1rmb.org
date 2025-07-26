@@ -21,7 +21,7 @@ export default defineConfig({
         ]
       },
       { text: "订阅", link: "/subscribe.md" },
-      { text: '登录/注册', link: 'https://suola.link/w' }
+      { text: '登录/注册', link: 'https://a.suola.link/1yuan' }
 
     ],
     sidebar: [
