@@ -112,7 +112,7 @@ head:
 
     推荐商家：
     
-    -   [水果商店](https://applego.idbb.me)
+    -   [水果商店](https://appleshop.win)
 :::
 
 ## 安装指南
@@ -129,6 +129,6 @@ head:
 ::: tip 🎉 节点推荐
 
 - 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://www.tntyun.cc/#/register?code=GtjJVgml)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)<br>
 - 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
 :::

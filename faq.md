@@ -179,3 +179,10 @@ head:
 ::: tip 💡 提示
 如果以上FAQ没有解决您的问题，请加入我们的Telegram群组 [@jichang360](https://t.me/jichang360) 获取更多帮助。
 :::
+
+::: tip 🎉 节点推荐
+
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+:::
