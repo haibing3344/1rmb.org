@@ -6,6 +6,81 @@ head:
   - - link
     - rel: canonical
       href: https://1yuan.win
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:title
+      content: 一元机场官网 - 快速稳定的VPN科学上网服务
+  - - meta
+    - property: og:description
+      content: 一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。
+  - - meta
+    - property: og:url
+      content: https://1yuan.win
+  - - meta
+    - property: og:image
+      content: https://1yuan.win/logo.png
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 一元机场官网 - 快速稳定的VPN科学上网服务
+  - - meta
+    - name: twitter:description
+      content: 一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。
+  - - meta
+    - name: twitter:image
+      content: https://1yuan.win/logo.png
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "一元机场",
+        "url": "https://1yuan.win",
+        "logo": "https://1yuan.win/logo.png",
+        "description": "一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。",
+        "sameAs": [
+          "https://t.me/jichang360"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "url": "https://t.me/jichang360"
+        },
+        "offers": {
+          "@type": "Offer",
+          "name": "VPN服务",
+          "description": "快速稳定的VPN科学上网服务",
+          "category": "网络服务"
+        }
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "一元机场",
+        "url": "https://1yuan.win",
+        "description": "一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://1yuan.win/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "一元机场",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://1yuan.win/logo.png"
+          }
+        }
+      }
 ---
 
 # 一元机场

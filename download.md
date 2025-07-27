@@ -6,6 +6,93 @@ head:
   - - link
     - rel: canonical
       href: https://1yuan.win/download.html
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:title
+      content: 一元机场客户端下载 - 支持Windows/Mac/iOS/Android
+  - - meta
+    - property: og:description
+      content: 下载一元机场客户端（Windows/Mac/iOS/Android），快速安装指南及常见问题解答。
+  - - meta
+    - property: og:url
+      content: https://1yuan.win/download.html
+  - - meta
+    - property: og:image
+      content: https://1yuan.win/logo.png
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 一元机场客户端下载 - 支持Windows/Mac/iOS/Android
+  - - meta
+    - name: twitter:description
+      content: 下载一元机场客户端（Windows/Mac/iOS/Android），快速安装指南及常见问题解答。
+  - - meta
+    - name: twitter:image
+      content: https://1yuan.win/logo.png
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "一元机场客户端",
+        "description": "一元机场VPN客户端，支持Windows、Mac、iOS、Android多平台",
+        "url": "https://1yuan.win/download.html",
+        "applicationCategory": "NetworkingApplication",
+        "operatingSystem": ["Windows", "macOS", "iOS", "Android"],
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "CNY"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "一元机场",
+          "url": "https://1yuan.win"
+        },
+        "downloadUrl": [
+          "https://xn--4gq62f52gdss.com/down/clash.7z",
+          "https://xn--4gq62f52gdss.com/down/clash.zip",
+          "https://apps.apple.com/us/app/shadowrocket/id932747118",
+          "https://xn--4gq62f52gdss.com/down/clash.apk"
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "如何下载和安装一元机场客户端",
+        "description": "详细的一元机场客户端下载和安装指南",
+        "image": "https://1yuan.win/logo.png",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "选择平台",
+            "text": "根据您的设备选择对应的客户端：Windows、Mac、iOS或Android"
+          },
+          {
+            "@type": "HowToStep", 
+            "name": "下载客户端",
+            "text": "点击对应平台的下载链接，下载客户端安装包"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "安装应用",
+            "text": "运行安装程序，按提示完成安装"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "登录使用",
+            "text": "打开应用，登录账号即可使用"
+          }
+        ]
+      }
 ---
 
 # 一元机场客户端下载

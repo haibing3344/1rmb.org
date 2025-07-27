@@ -6,6 +6,110 @@ head:
   - - link
     - rel: canonical
       href: https://1yuan.win/tutorial/macos.html
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:title
+      content: 一元机场MacOS教程 - ClashX配置与科学上网指南
+  - - meta
+    - property: og:description
+      content: 详细MacOS版一元机场客户端使用教程，包含ClashX下载安装、配置导入及代理设置，适用于MacBook/iMac用户的科学上网解决方案。
+  - - meta
+    - property: og:url
+      content: https://1yuan.win/tutorial/macos.html
+  - - meta
+    - property: og:image
+      content: https://1yuan.win/logo.png
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 一元机场MacOS教程 - ClashX配置与科学上网指南
+  - - meta
+    - name: twitter:description
+      content: 详细MacOS版一元机场客户端使用教程，包含ClashX下载安装、配置导入及代理设置，适用于MacBook/iMac用户的科学上网解决方案。
+  - - meta
+    - name: twitter:image
+      content: https://1yuan.win/logo.png
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "一元机场MacOS客户端使用教程",
+        "description": "详细的ClashX配置教程，包含下载、安装、配置和使用步骤",
+        "image": "https://1yuan.win/logo.png",
+        "totalTime": "PT10M",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "CNY",
+          "value": "0"
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Mac电脑（MacBook/iMac）"
+          },
+          {
+            "@type": "HowToSupply", 
+            "name": "一元机场订阅链接"
+          }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "ClashX"
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "下载ClashX",
+            "text": "从官方链接下载ClashX客户端"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "安装配置",
+            "text": "安装ClashX并导入订阅配置"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "开始使用",
+            "text": "选择节点和代理模式开始科学上网"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "TechArticle",
+        "headline": "一元机场MacOS客户端使用教程",
+        "description": "详细MacOS版一元机场客户端使用教程，包含ClashX下载安装、配置导入及代理设置",
+        "image": "https://1yuan.win/logo.png",
+        "author": {
+          "@type": "Organization",
+          "name": "一元机场"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "一元机场",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://1yuan.win/logo.png"
+          }
+        },
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-12-01",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://1yuan.win/tutorial/macos.html"
+        }
+      }
 ---
 
 # 一元机场-MacOS客户端使用教程

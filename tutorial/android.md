@@ -6,6 +6,113 @@ head:
   - - link
     - rel: canonical
       href: https://1yuan.win/tutorial/android.html
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:title
+      content: 一元机场Android教程 - Clash for Android详细配置指南
+  - - meta
+    - property: og:description
+      content: 手把手教你配置一元机场Clash for Android客户端，包含订阅链接导入、节点选择、代理模式设置等完整教程，解决连接问题并提供实用技巧。
+  - - meta
+    - property: og:url
+      content: https://1yuan.win/tutorial/android.html
+  - - meta
+    - property: og:image
+      content: https://1yuan.win/assets/android/img1.png
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 一元机场Android教程 - Clash for Android详细配置指南
+  - - meta
+    - name: twitter:description
+      content: 手把手教你配置一元机场Clash for Android客户端，包含订阅链接导入、节点选择、代理模式设置等完整教程，解决连接问题并提供实用技巧。
+  - - meta
+    - name: twitter:image
+      content: https://1yuan.win/assets/android/img1.png
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "一元机场Android客户端使用教程",
+        "description": "详细的Clash for Android配置教程，包含下载、安装、配置和使用步骤",
+        "image": "https://1yuan.win/assets/android/img1.png",
+        "totalTime": "PT10M",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "CNY",
+          "value": "0"
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Android设备"
+          },
+          {
+            "@type": "HowToSupply", 
+            "name": "一元机场订阅链接"
+          }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Clash for Android"
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "下载与安装",
+            "text": "下载Clash for Android客户端并完成安装",
+            "image": "https://1yuan.win/assets/android/img1.png"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "添加配置",
+            "text": "点击配置，添加订阅链接，设置自动更新",
+            "image": "https://1yuan.win/assets/android/img3.png"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "选择节点",
+            "text": "选择合适的节点和代理模式开始使用",
+            "image": "https://1yuan.win/assets/android/img10.png"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "TechArticle",
+        "headline": "一元机场Android客户端使用教程",
+        "description": "手把手教你配置一元机场Clash for Android客户端",
+        "image": "https://1yuan.win/assets/android/img1.png",
+        "author": {
+          "@type": "Organization",
+          "name": "一元机场"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "一元机场",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://1yuan.win/logo.png"
+          }
+        },
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-12-01",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://1yuan.win/tutorial/android.html"
+        }
+      }
 ---
 # 一元机场-Android客户端使用教程
 

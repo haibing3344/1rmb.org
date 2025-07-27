@@ -6,6 +6,123 @@ head:
   - - link
     - rel: canonical
       href: https://1yuan.win/tutorial/ios.html
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:title
+      content: 一元机场iOS教程 - Shadowrocket科学上网配置指南
+  - - meta
+    - property: og:description
+      content: 详细图文教程教你配置一元机场Shadowrocket客户端，包含订阅导入、节点切换、代理模式设置及常见问题解决方案，适用于iPhone/iPad用户。
+  - - meta
+    - property: og:url
+      content: https://1yuan.win/tutorial/ios.html
+  - - meta
+    - property: og:image
+      content: https://1yuan.win/assets/1.jpg
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 一元机场iOS教程 - Shadowrocket科学上网配置指南
+  - - meta
+    - name: twitter:description
+      content: 详细图文教程教你配置一元机场Shadowrocket客户端，包含订阅导入、节点切换、代理模式设置及常见问题解决方案，适用于iPhone/iPad用户。
+  - - meta
+    - name: twitter:image
+      content: https://1yuan.win/assets/1.jpg
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "一元机场iOS客户端使用教程",
+        "description": "详细的Shadowrocket配置教程，包含下载、安装、配置和使用步骤",
+        "image": "https://1yuan.win/assets/1.jpg",
+        "totalTime": "PT15M",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "USD",
+          "value": "2.99"
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "iPhone或iPad设备"
+          },
+          {
+            "@type": "HowToSupply", 
+            "name": "境外Apple ID"
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "一元机场订阅链接"
+          }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Shadowrocket应用"
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "下载与安装",
+            "text": "使用境外Apple ID从App Store下载Shadowrocket应用",
+            "image": "https://1yuan.win/assets/1.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "添加配置",
+            "text": "通过一键导入功能添加订阅链接",
+            "image": "https://1yuan.win/assets/3.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "安装VPN配置",
+            "text": "允许安装VPN配置文件并输入密码",
+            "image": "https://1yuan.win/assets/6.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "选择节点和模式",
+            "text": "选择合适的节点和代理模式开始使用",
+            "image": "https://1yuan.win/assets/9.jpg"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "TechArticle",
+        "headline": "一元机场iOS客户端使用教程",
+        "description": "详细图文教程教你配置一元机场Shadowrocket客户端",
+        "image": "https://1yuan.win/assets/1.jpg",
+        "author": {
+          "@type": "Organization",
+          "name": "一元机场"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "一元机场",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://1yuan.win/logo.png"
+          }
+        },
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-12-01",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://1yuan.win/tutorial/ios.html"
+        }
+      }
 ---
 # 一元机场iOS客户端使用教程
 ## ios客户端—Shadowrocket

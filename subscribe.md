@@ -6,6 +6,113 @@ head:
   - - link
     - rel: canonical
       href: https://1yuan.win/subscribe.html
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:title
+      content: 一元机场套餐订阅 - 多种VPN套餐选择
+  - - meta
+    - property: og:description
+      content: 一元机场套餐价格、订阅流程及优惠活动，支持支付宝/微信支付。
+  - - meta
+    - property: og:url
+      content: https://1yuan.win/subscribe.html
+  - - meta
+    - property: og:image
+      content: https://1yuan.win/logo.png
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 一元机场套餐订阅 - 多种VPN套餐选择
+  - - meta
+    - name: twitter:description
+      content: 一元机场套餐价格、订阅流程及优惠活动，支持支付宝/微信支付。
+  - - meta
+    - name: twitter:image
+      content: https://1yuan.win/logo.png
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "一元机场VPN服务套餐",
+        "description": "一元机场提供多种VPN服务套餐，满足不同用户需求",
+        "url": "https://1yuan.win/subscribe.html",
+        "image": "https://1yuan.win/logo.png",
+        "brand": {
+          "@type": "Brand",
+          "name": "一元机场"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Cyberguard套餐",
+            "price": "18.00",
+            "priceCurrency": "CNY",
+            "priceValidUntil": "2025-12-31",
+            "availability": "https://schema.org/InStock",
+            "description": "100GB流量，300Mbps速度，不限设备数"
+          },
+          {
+            "@type": "Offer", 
+            "name": "优信云套餐",
+            "price": "15.00",
+            "priceCurrency": "CNY",
+            "priceValidUntil": "2025-12-31",
+            "availability": "https://schema.org/InStock",
+            "description": "100GB流量，200Mbps速度，支持2台设备"
+          },
+          {
+            "@type": "Offer",
+            "name": "NanoCloud套餐", 
+            "price": "10.00",
+            "priceCurrency": "CNY",
+            "priceValidUntil": "2025-12-31",
+            "availability": "https://schema.org/InStock",
+            "description": "300GB流量，500Mbps速度，支持5台设备"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "一元机场VPN服务",
+        "description": "专业的VPN科学上网服务，提供多种套餐选择",
+        "provider": {
+          "@type": "Organization",
+          "name": "一元机场",
+          "url": "https://1yuan.win"
+        },
+        "serviceType": "VPN服务",
+        "areaServed": "全球",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "VPN套餐目录",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "基础套餐"
+              }
+            },
+            {
+              "@type": "Offer", 
+              "itemOffered": {
+                "@type": "Service",
+                "name": "高级套餐"
+              }
+            }
+          ]
+        }
+      }
 ---
 
 <script setup>
