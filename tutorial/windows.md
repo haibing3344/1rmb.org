@@ -5,7 +5,7 @@ keywords: 一元机场Windows教程,Clash for Windows配置,Windows科学上网,
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.win/tutorial/windows.html
+      href: https://1rmb.org/tutorial/windows.html
   - - meta
     - property: og:type
       content: article
@@ -17,10 +17,10 @@ head:
       content: 详细图文教程教你配置一元机场Clash for Windows客户端，包含下载安装、订阅导入、节点选择及代理模式设置，解决Windows系统科学上网问题。
   - - meta
     - property: og:url
-      content: https://1yuan.win/tutorial/windows.html
+      content: https://1rmb.org/tutorial/windows.html
   - - meta
     - property: og:image
-      content: https://1yuan.win/assets/win/img1.png
+      content: https://1rmb.org/assets/win/img1.png
   - - meta
     - name: twitter:card
       content: summary_large_image
@@ -32,7 +32,7 @@ head:
       content: 详细图文教程教你配置一元机场Clash for Windows客户端，包含下载安装、订阅导入、节点选择及代理模式设置，解决Windows系统科学上网问题。
   - - meta
     - name: twitter:image
-      content: https://1yuan.win/assets/win/img1.png
+      content: https://1rmb.org/assets/win/img1.png
   - - script
     - type: application/ld+json
     - |
@@ -41,7 +41,7 @@ head:
         "@type": "HowTo",
         "name": "一元机场Windows客户端使用教程",
         "description": "详细的Clash for Windows配置教程，包含下载、安装、配置和使用步骤",
-        "image": "https://1yuan.win/assets/win/img1.png",
+        "image": "https://1rmb.org/assets/win/img1.png",
         "totalTime": "PT10M",
         "estimatedCost": {
           "@type": "MonetaryAmount",
@@ -69,19 +69,19 @@ head:
             "@type": "HowToStep",
             "name": "下载与安装",
             "text": "下载Clash for Windows客户端并完成安装",
-            "image": "https://1yuan.win/assets/win/img1.png"
+            "image": "https://1rmb.org/assets/win/img1.png"
           },
           {
             "@type": "HowToStep",
             "name": "获取订阅",
             "text": "在Profiles页面添加订阅链接并下载配置",
-            "image": "https://1yuan.win/assets/win/img2.png"
+            "image": "https://1rmb.org/assets/win/img2.png"
           },
           {
             "@type": "HowToStep",
             "name": "选择节点和模式",
             "text": "在Proxies页面选择代理模式和节点，开启System Proxy",
-            "image": "https://1yuan.win/assets/win/img3.png"
+            "image": "https://1rmb.org/assets/win/img3.png"
           }
         ]
       }
@@ -93,7 +93,7 @@ head:
         "@type": "TechArticle",
         "headline": "一元机场Windows客户端使用教程",
         "description": "详细图文教程教你配置一元机场Clash for Windows客户端",
-        "image": "https://1yuan.win/assets/win/img1.png",
+        "image": "https://1rmb.org/assets/win/img1.png",
         "author": {
           "@type": "Organization",
           "name": "一元机场"
@@ -103,14 +103,14 @@ head:
           "name": "一元机场",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://1yuan.win/logo.png"
+            "url": "https://1rmb.org/logo.png"
           }
         },
         "datePublished": "2024-01-01",
         "dateModified": "2024-12-01",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://1yuan.win/tutorial/windows.html"
+          "@id": "https://1rmb.org/tutorial/windows.html"
         }
       }
 ---

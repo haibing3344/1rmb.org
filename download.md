@@ -1,11 +1,11 @@
 ---
-title: 客户端下载
+title: 一元机场-客户端下载
 description: 下载一元机场客户端（Windows/Mac/iOS/Android），快速安装指南及常见问题解答。
 keywords: 一元机场下载, VPN客户端, 科学上网工具
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.win/download.html
+      href: https://1rmb.org/download.html
   - - meta
     - property: og:type
       content: article
@@ -17,10 +17,10 @@ head:
       content: 下载一元机场客户端（Windows/Mac/iOS/Android），快速安装指南及常见问题解答。
   - - meta
     - property: og:url
-      content: https://1yuan.win/download.html
+      content: https://1rmb.org/download.html
   - - meta
     - property: og:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - meta
     - name: twitter:card
       content: summary_large_image
@@ -32,7 +32,7 @@ head:
       content: 下载一元机场客户端（Windows/Mac/iOS/Android），快速安装指南及常见问题解答。
   - - meta
     - name: twitter:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - script
     - type: application/ld+json
     - |
@@ -41,7 +41,7 @@ head:
         "@type": "SoftwareApplication",
         "name": "一元机场客户端",
         "description": "一元机场VPN客户端，支持Windows、Mac、iOS、Android多平台",
-        "url": "https://1yuan.win/download.html",
+        "url": "https://1rmb.org/download.html",
         "applicationCategory": "NetworkingApplication",
         "operatingSystem": ["Windows", "macOS", "iOS", "Android"],
         "offers": {
@@ -52,7 +52,7 @@ head:
         "publisher": {
           "@type": "Organization",
           "name": "一元机场",
-          "url": "https://1yuan.win"
+          "url": "https://1rmb.org"
         },
         "downloadUrl": [
           "https://xn--4gq62f52gdss.com/down/clash.7z",
@@ -69,7 +69,7 @@ head:
         "@type": "HowTo",
         "name": "如何下载和安装一元机场客户端",
         "description": "详细的一元机场客户端下载和安装指南",
-        "image": "https://1yuan.win/logo.png",
+        "image": "https://1rmb.org/logo.png",
         "step": [
           {
             "@type": "HowToStep",

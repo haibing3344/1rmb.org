@@ -18,7 +18,7 @@ onMounted(() => {
     "@type": "ListItem",
     "position": 1,
     "name": "首页",
-    "item": "https://1yuan.win"
+    "item": "https://1rmb.org"
   })
   
   // 根据路径生成面包屑
@@ -27,7 +27,7 @@ onMounted(() => {
       "@type": "ListItem",
       "position": 2,
       "name": "教程",
-      "item": "https://1yuan.win/tutorial/"
+      "item": "https://1rmb.org/tutorial/"
     })
     
     if (path.includes('android')) {
@@ -35,28 +35,28 @@ onMounted(() => {
         "@type": "ListItem",
         "position": 3,
         "name": "Android教程",
-        "item": "https://1yuan.win/tutorial/android.html"
+        "item": "https://1rmb.org/tutorial/android.html"
       })
     } else if (path.includes('ios')) {
       breadcrumbs.push({
         "@type": "ListItem",
         "position": 3,
         "name": "iOS教程",
-        "item": "https://1yuan.win/tutorial/ios.html"
+        "item": "https://1rmb.org/tutorial/ios.html"
       })
     } else if (path.includes('windows')) {
       breadcrumbs.push({
         "@type": "ListItem",
         "position": 3,
         "name": "Windows教程",
-        "item": "https://1yuan.win/tutorial/windows.html"
+        "item": "https://1rmb.org/tutorial/windows.html"
       })
     } else if (path.includes('macos')) {
       breadcrumbs.push({
         "@type": "ListItem",
         "position": 3,
         "name": "MacOS教程",
-        "item": "https://1yuan.win/tutorial/macos.html"
+        "item": "https://1rmb.org/tutorial/macos.html"
       })
     }
   } else if (path.includes('/download')) {
@@ -64,21 +64,21 @@ onMounted(() => {
       "@type": "ListItem",
       "position": 2,
       "name": "客户端下载",
-      "item": "https://1yuan.win/download.html"
+      "item": "https://1rmb.org/download.html"
     })
   } else if (path.includes('/subscribe')) {
     breadcrumbs.push({
       "@type": "ListItem",
       "position": 2,
       "name": "订阅购买",
-      "item": "https://1yuan.win/subscribe.html"
+      "item": "https://1rmb.org/subscribe.html"
     })
   } else if (path.includes('/faq')) {
     breadcrumbs.push({
       "@type": "ListItem",
       "position": 2,
       "name": "常见问题",
-      "item": "https://1yuan.win/faq.html"
+      "item": "https://1rmb.org/faq.html"
     })
   }
   

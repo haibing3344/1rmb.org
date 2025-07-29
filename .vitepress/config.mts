@@ -18,8 +18,8 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: '一元机场' }],
     ['meta', { property: 'og:title', content: '一元机场 - 快速稳定的VPN科学上网服务' }],
     ['meta', { property: 'og:description', content: '一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，操作简单，提供免费试用，稳定安全，适合海外华人、外贸和跨境用户科学上网，中国便宜好用的VPN首选。' }],
-    ['meta', { property: 'og:url', content: 'https://1yuan.win' }],
-    ['meta', { property: 'og:image', content: 'https://1yuan.win/logo.png' }],
+    ['meta', { property: 'og:url', content: 'https://1rmb.org' }],
+    ['meta', { property: 'og:image', content: 'https://1rmb.org/logo.png' }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
@@ -29,7 +29,7 @@ export default defineConfig({
     ['meta', { name: 'twitter:site', content: '@1yuan_win' }],
     ['meta', { name: 'twitter:title', content: '一元机场 - 快速稳定的VPN科学上网服务' }],
     ['meta', { name: 'twitter:description', content: '一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，操作简单，提供免费试用，稳定安全，适合海外华人、外贸和跨境用户科学上网，中国便宜好用的VPN首选。' }],
-    ['meta', { name: 'twitter:image', content: 'https://1yuan.win/logo.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://1rmb.org/logo.png' }],
     
     // 其他SEO标签
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -96,7 +96,7 @@ export default defineConfig({
       // 站点页脚配置
   footer: {
     message: "一元机场,一元机场登录地址,一元机场官网,一元机场ink",
-    copyright: 'Copyright © 2025  <a href="/"> 一元机场 </a>'
+    copyright: 'Copyright © 2025  <a href="/"> 一元机场 </a> | <a href="https://a.suola.link/1yuan">登录/注册</a>'
   },
   // 搜索   
   search: {
@@ -107,7 +107,7 @@ export default defineConfig({
 cleanUrls: false, // 禁用干净URL，保留.html后缀
   // 站点地图
   sitemap: {
-    hostname: 'https://1yuan.win'
+    hostname: 'https://1rmb.org'
   }
 
 })

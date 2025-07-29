@@ -1,38 +1,38 @@
 ---
-title: 订阅购买
-description: 一元机场套餐价格、订阅流程及优惠活动，支持支付宝/微信支付。
-keywords: 一元机场订阅, VPN套餐, 科学上网付费
+title: 一元机场VPN套餐订阅 | 高速稳定科学上网服务
+description: 一元机场提供多种高性价比VPN套餐，包含不同流量、速度和设备数选择，支持支付宝/微信支付，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务。
+keywords: 一元机场订阅, VPN套餐, 科学上网服务, 流媒体解锁, ChatGPT解锁, 高速稳定, 性价比机场
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.win/subscribe.html
+      href: https://1rmb.org/subscribe.html
   - - meta
     - property: og:type
       content: article
   - - meta
     - property: og:title
-      content: 一元机场套餐订阅 - 多种VPN套餐选择
+      content: 一元机场VPN套餐订阅 | 高速稳定科学上网服务
   - - meta
     - property: og:description
-      content: 一元机场套餐价格、订阅流程及优惠活动，支持支付宝/微信支付。
+      content: 一元机场提供多种高性价比VPN套餐，包含不同流量、速度和设备数选择，支持支付宝/微信支付，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务。
   - - meta
     - property: og:url
-      content: https://1yuan.win/subscribe.html
+      content: https://1rmb.org/subscribe.html
   - - meta
     - property: og:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: 一元机场套餐订阅 - 多种VPN套餐选择
+      content: 一元机场VPN套餐订阅 | 高速稳定科学上网服务
   - - meta
     - name: twitter:description
-      content: 一元机场套餐价格、订阅流程及优惠活动，支持支付宝/微信支付。
+      content: 一元机场提供多种高性价比VPN套餐，包含不同流量、速度和设备数选择，支持支付宝/微信支付，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务。
   - - meta
     - name: twitter:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - script
     - type: application/ld+json
     - |
@@ -40,9 +40,9 @@ head:
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "一元机场VPN服务套餐",
-        "description": "一元机场提供多种VPN服务套餐，满足不同用户需求",
-        "url": "https://1yuan.win/subscribe.html",
-        "image": "https://1yuan.win/logo.png",
+        "description": "一元机场提供多种高性价比VPN套餐，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务，高速稳定科学上网",
+        "url": "https://1rmb.org/subscribe.html",
+        "image": "https://1rmb.org/logo.png",
         "brand": {
           "@type": "Brand",
           "name": "一元机场"
@@ -84,11 +84,11 @@ head:
         "@context": "https://schema.org",
         "@type": "Service",
         "name": "一元机场VPN服务",
-        "description": "专业的VPN科学上网服务，提供多种套餐选择",
+        "description": "专业的高速稳定VPN科学上网服务，提供多种套餐选择，解锁全球流媒体和AI服务",
         "provider": {
           "@type": "Organization",
           "name": "一元机场",
-          "url": "https://1yuan.win"
+          "url": "https://1rmb.org"
         },
         "serviceType": "VPN服务",
         "areaServed": "全球",
@@ -119,8 +119,8 @@ head:
 import { ref } from 'vue'
 </script>
 
-# 一元机场套餐｜选择最适合您的计划
-一元机场提供多种套餐供您选择，根据您的需求和预算选择合适的套餐。
+# 一元机场VPN套餐 | 2024年高速稳定科学上网服务
+一元机场提供多种高性价比VPN套餐，根据您的流量需求、速度要求和设备数量选择最适合的科学上网服务。所有套餐均支持解锁Netflix、Disney+、ChatGPT等流媒体和AI服务。
 
 
 ::: tip 注意事项
@@ -128,7 +128,7 @@ import { ref } from 'vue'
 - 根据您的需求和预算选择合适的套餐。
 :::
 
-## 流量估算参考表
+## 【科学上网流量估算】不同场景流量消耗参考表
 
 | 使用场景 | 预估每小时流量消耗 | 建议月流量 |
 | --- | --- | --- |
@@ -139,7 +139,7 @@ import { ref } from 'vue'
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
 
 
-## 性价比机场推荐：
+## 【高性价比VPN套餐】精选性价比机场推荐
 
 <div class="pricing-container">
 
@@ -410,7 +410,7 @@ import { ref } from 'vue'
 </div>
 </div>
 
-## 优质靠谱机场推荐：
+## 【稳定可靠VPN服务】专业高速稳定机场推荐
 
 <div class="pricing-container">
 <div class="pricing-card">
@@ -716,7 +716,7 @@ import { ref } from 'vue'
 </div>
 </div>
 
-## 大流量机场推荐：
+## 【大流量VPN套餐】无限制观影下载首选
 <div class="pricing-container">
 
 <div class="pricing-card">

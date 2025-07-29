@@ -5,7 +5,7 @@ keywords: 一元机场Mac教程,ClashX配置,Mac科学上网,MacOS VPN设置,Cla
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.win/tutorial/macos.html
+      href: https://1rmb.org/tutorial/macos.html
   - - meta
     - property: og:type
       content: article
@@ -17,10 +17,10 @@ head:
       content: 详细MacOS版一元机场客户端使用教程，包含ClashX下载安装、配置导入及代理设置，适用于MacBook/iMac用户的科学上网解决方案。
   - - meta
     - property: og:url
-      content: https://1yuan.win/tutorial/macos.html
+      content: https://1rmb.org/tutorial/macos.html
   - - meta
     - property: og:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - meta
     - name: twitter:card
       content: summary_large_image
@@ -32,7 +32,7 @@ head:
       content: 详细MacOS版一元机场客户端使用教程，包含ClashX下载安装、配置导入及代理设置，适用于MacBook/iMac用户的科学上网解决方案。
   - - meta
     - name: twitter:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - script
     - type: application/ld+json
     - |
@@ -41,7 +41,7 @@ head:
         "@type": "HowTo",
         "name": "一元机场MacOS客户端使用教程",
         "description": "详细的ClashX配置教程，包含下载、安装、配置和使用步骤",
-        "image": "https://1yuan.win/logo.png",
+        "image": "https://1rmb.org/logo.png",
         "totalTime": "PT10M",
         "estimatedCost": {
           "@type": "MonetaryAmount",
@@ -90,7 +90,7 @@ head:
         "@type": "TechArticle",
         "headline": "一元机场MacOS客户端使用教程",
         "description": "详细MacOS版一元机场客户端使用教程，包含ClashX下载安装、配置导入及代理设置",
-        "image": "https://1yuan.win/logo.png",
+        "image": "https://1rmb.org/logo.png",
         "author": {
           "@type": "Organization",
           "name": "一元机场"
@@ -100,14 +100,14 @@ head:
           "name": "一元机场",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://1yuan.win/logo.png"
+            "url": "https://1rmb.org/logo.png"
           }
         },
         "datePublished": "2024-01-01",
         "dateModified": "2024-12-01",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://1yuan.win/tutorial/macos.html"
+          "@id": "https://1rmb.org/tutorial/macos.html"
         }
       }
 ---

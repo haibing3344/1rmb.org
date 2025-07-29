@@ -10,7 +10,7 @@ const route = useRoute()
 let scriptElement = null
 
 onMounted(() => {
-  const baseUrl = 'https://1yuan.win'
+  const baseUrl = 'https://1rmb.org'
   const currentUrl = `${baseUrl}${route.path}`
   
   // 基础组织信息

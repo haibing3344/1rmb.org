@@ -1,11 +1,12 @@
 ---
+layout: home
 title: 一元机场官网，一元机场登录地址
 description: 一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。
 keywords: VPN, 一元机场, 中国VPN, 科学上网, 免费VPN, 翻墙, 稳定VPN, 机场, 跨境网络, 海外华人VPN
 head:
   - - link
     - rel: canonical
-      href: https://1yuan.win
+      href: https://1rmb.org
   - - meta
     - property: og:type
       content: website
@@ -17,10 +18,10 @@ head:
       content: 一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。
   - - meta
     - property: og:url
-      content: https://1yuan.win
+      content: https://1rmb.org
   - - meta
     - property: og:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - meta
     - name: twitter:card
       content: summary_large_image
@@ -32,7 +33,7 @@ head:
       content: 一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。
   - - meta
     - name: twitter:image
-      content: https://1yuan.win/logo.png
+      content: https://1rmb.org/logo.png
   - - script
     - type: application/ld+json
     - |
@@ -40,8 +41,8 @@ head:
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "一元机场",
-        "url": "https://1yuan.win",
-        "logo": "https://1yuan.win/logo.png",
+        "url": "https://1rmb.org",
+        "logo": "https://1rmb.org/logo.png",
         "description": "一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。支持多平台，提供免费试用，安全稳定，是海外华人和跨境用户的科学上网首选。",
         "sameAs": [
           "https://t.me/jichang360"
@@ -65,11 +66,11 @@ head:
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "一元机场",
-        "url": "https://1yuan.win",
+        "url": "https://1rmb.org",
         "description": "一元机场提供快速稳定的VPN服务，轻松突破网络限制，自由访问全球互联网。",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://1yuan.win/search?q={search_term_string}",
+          "target": "https://1rmb.org/search?q={search_term_string}",
           "query-input": "required name=search_term_string"
         },
         "publisher": {
@@ -77,7 +78,7 @@ head:
           "name": "一元机场",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://1yuan.win/logo.png"
+            "url": "https://1rmb.org/logo.png"
           }
         }
       }
@@ -115,7 +116,7 @@ head:
 
 - [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙性价比机场推荐
 - [Clash Verge Rev](https://clash-verge-rev.org/) - 跨平台代理客户端
-- [一元机场](https://1yuan.win/) - 提供高速稳定的网络服务
+- [一元机场](https://1rmb.org/) - 提供高速稳定的网络服务
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端。
 - [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
@@ -123,3 +124,29 @@ head:
 - [Karing](https://karing.uk) - 新一代网络代理工具,免费
 - [Stash](https://stashapp.uk) - 简单且强大的网络工具
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
+
+<div class="footer-container">
+  <div class="footer-section contact-section">
+    <h3>联系我们</h3>
+    <ul>
+      <li><a href="https://t.me/jichang360" target="_blank">Telegram群组: @jichang360</a></li>
+      <li><a href="mailto:support@1rmb.org">邮箱: support@1rmb.org</a></li>
+    </ul>
+  </div>
+  
+  <div class="footer-section cta-section">
+    <h3>开始使用</h3>
+    <p>立即体验高速稳定的网络服务，畅享无阻碍的全球互联网！</p>
+    <a href="https://a.suola.link/1yuan" class="cta-button">注册账户</a>
+  </div>
+  
+  <div class="footer-section links-section">
+    <h3>快速链接</h3>
+    <ul>
+      <li><a href="/download.md">下载客户端</a></li>
+      <li><a href="/tutorial/android.md">使用教程</a></li>
+      <li><a href="/subscribe.md">订阅节点</a></li>
+      <li><a href="/faq.md">常见问题</a></li>
+    </ul>
+  </div>
+</div>
