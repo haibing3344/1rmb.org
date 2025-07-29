@@ -143,10 +143,10 @@ head:
   <div class="footer-section links-section">
     <h3>快速链接</h3>
     <ul>
-      <li><a href="/download.md">下载客户端</a></li>
-      <li><a href="/tutorial/android.md">使用教程</a></li>
-      <li><a href="/subscribe.md">订阅节点</a></li>
-      <li><a href="/faq.md">常见问题</a></li>
+      <li><a href="/download">下载客户端</a></li>
+      <li><a href="/tutorial/android">使用教程</a></li>
+      <li><a href="/subscribe">订阅节点</a></li>
+      <li><a href="/faq">常见问题</a></li>
     </ul>
   </div>
 </div>
