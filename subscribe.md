@@ -1,5 +1,5 @@
 ---
-title: 一元机场VPN套餐订阅 | 高速稳定科学上网服务
+title: 一元机场套餐订阅 | 高速稳定科学上网服务
 description: 一元机场提供多种高性价比VPN套餐，包含不同流量、速度和设备数选择，支持支付宝/微信支付，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务。
 keywords: 一元机场订阅, VPN套餐, 科学上网服务, 流媒体解锁, ChatGPT解锁, 高速稳定, 性价比机场
 head:
@@ -11,7 +11,7 @@ head:
       content: article
   - - meta
     - property: og:title
-      content: 一元机场VPN套餐订阅 | 高速稳定科学上网服务
+      content: 一元机场套餐订阅 | 高速稳定科学上网服务
   - - meta
     - property: og:description
       content: 一元机场提供多种高性价比VPN套餐，包含不同流量、速度和设备数选择，支持支付宝/微信支付，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务。
@@ -26,7 +26,7 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: 一元机场VPN套餐订阅 | 高速稳定科学上网服务
+      content: 一元机场套餐订阅 | 高速稳定科学上网服务
   - - meta
     - name: twitter:description
       content: 一元机场提供多种高性价比VPN套餐，包含不同流量、速度和设备数选择，支持支付宝/微信支付，解锁Netflix/Disney+/ChatGPT等流媒体和AI服务。
@@ -119,7 +119,7 @@ head:
 import { ref } from 'vue'
 </script>
 
-# 一元机场VPN套餐 | 2024年高速稳定科学上网服务
+# 一元机场套餐 | 2025年高速稳定科学上网服务
 一元机场提供多种高性价比VPN套餐，根据您的流量需求、速度要求和设备数量选择最适合的科学上网服务。所有套餐均支持解锁Netflix、Disney+、ChatGPT等流媒体和AI服务。
 
 
@@ -139,7 +139,7 @@ import { ref } from 'vue'
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
 
 
-## 【高性价比VPN套餐】精选性价比机场推荐
+## 【高性价比套餐】精选性价比机场推荐
 
 <div class="pricing-container">
 
@@ -410,7 +410,7 @@ import { ref } from 'vue'
 </div>
 </div>
 
-## 【稳定可靠VPN服务】专业高速稳定机场推荐
+## 【稳定可靠服务】专业高速稳定机场推荐
 
 <div class="pricing-container">
 <div class="pricing-card">
@@ -716,7 +716,7 @@ import { ref } from 'vue'
 </div>
 </div>
 
-## 【大流量VPN套餐】无限制观影下载首选
+## 【大流量套餐】无限制观影下载首选
 <div class="pricing-container">
 
 <div class="pricing-card">
