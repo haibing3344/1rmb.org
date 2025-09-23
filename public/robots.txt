@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+
+Sitemap: https://1rmb.org/sitemap-0.xml
+Sitemap: https://1rmb.org/sitemap-index.xml
