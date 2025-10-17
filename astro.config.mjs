@@ -48,14 +48,6 @@ export default defineConfig({
 						{ label: '🚀网际快车', badge: { text: '性价比高', variant: 'caution' },link: 'https://a.suola.link/wjkc' },
 					],
 				},
-				{
-					label: '其它代理客户端',
-					items: [
-						{ label: ' Shadowrocket(小火箭)', badge: { text: 'iOS专业网络工具', variant: 'success' }, link: 'https://shadowrocket.uk' },
-						{ label: ' ClashMetaForAndroid', badge: { text: 'Android专业网络工具', variant: 'note' }, link: 'https://clashmeta.bid' },
-						{ label: ' ClashForWindows', badge: { text: 'Windows平台代理工具', variant: 'tip' }, link: 'https://clashverge.uk' },
-					],
-				},
 			],
 		}),
 	],
