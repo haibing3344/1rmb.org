@@ -118,7 +118,7 @@ Clash for Android是Android上流行的客户端，以下教程将提供Clash fo
 
 -----------------
 :::tip[🎉 节点推荐]
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 :::note[💬 交流群]

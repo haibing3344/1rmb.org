@@ -8,7 +8,7 @@ keywords: 一元机场FAQ, VPN常见问题, 科学上网问题解答, 客户端�
 ## 账号相关
 
 ### 如何注册一元机场账号？
-访问[一元机场官网](https://a.suola.link/1yuan)，点击注册按钮，填写邮箱和密码即可完成注册。注册后可以免费试用部分节点。
+访问[一元机场官网](https://c.jichangs.com/1yuan)，点击注册按钮，填写邮箱和密码即可完成注册。注册后可以免费试用部分节点。
 
 ### 忘记密码怎么办？
 在登录页面点击"忘记密码"，输入注册邮箱，系统会发送重置密码的邮件到您的邮箱。
@@ -92,7 +92,7 @@ keywords: 一元机场FAQ, VPN常见问题, 科学上网问题解答, 客户端�
 :::
 
 :::tip[🎉 节点推荐]
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 :::note[💬 交流群]
