@@ -94,14 +94,14 @@ head:
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
 
 
-## 【高性价比套餐】精选性价比机场推荐
+## 性价比机场推荐：
 
 <div class="pricing-container">
 
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/cyberguard" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/cyberguard" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -123,15 +123,15 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
+  <div class="pricing-title">扬帆云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="http://www.优信云.com/#/register?code=JRtE5uIV" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/yfy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- **<span style="color: red;">618年付 7 折优惠码：618</span>**
+- **<span style="color: red;">限时年付 7 折优惠码：618</span>**
 - 流量：100 GB
 - 速度：200 Mbps
 - 设备数：2
@@ -145,13 +145,34 @@ head:
 5. **<span style="color: red;">👍全球接入节点</span>**
 6. **<span style="color: red;">👍解锁流媒体</span>**
 7. 可用等级一节点
-8. **<span style="color: red;">💛年费套餐85折优惠码：yx85 </span>**
+8. **<span style="color: red;">💛年费套餐7折优惠码：618 </span>**
 </div>
+<div class="pricing-card">
+  <div class="pricing-title">优信云</div>
+  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/youxinyun" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">💛限时年付85折优码：yx85</span>**
+- 流量：100 GB
+- 速度：200M
+- 设备数：2
 
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
+</div>
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/nanocloud" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/nanocloud" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -175,7 +196,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/pokemon" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/pokemon" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -196,9 +217,55 @@ head:
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">UUONE</span></div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit" >每月</span></div>
+  <a href="https://c.jichangs.com/uuone" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">新用户9折优惠码：uuone</span>**
+- 流量：150 GB
+- 速度：300Mbps
+- 设备数：10
+
+使用说明
+
+1. BGP三网优化
+2. 超高性价比，节点质量高.
+3. 晚高峰不限速，稳定高效。
+4. 流媒体完美解锁（包括Netflix , Disney+, HBO等）
+5. 全天候在线，高效客服响应
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">CCYZ</span></div>
+  <div class="pricing-price">¥15.00 <span class="pricing-unit" >每月</span></div>
+  <a href="https://c.jichangs.com/ccyz" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">新用户95折优惠码：ccyz</span>**
+- 流量：100 GB
+- 速度：300Mbps
+- 设备数：不限制
+
+使用说明
+
+0. **<span style="color: red;">新用户免费试用12小时</span>**
+1. 流量: 150GB 丨每月订单日重置
+2. BGP＋IEPL专线丨500M带宽保障
+3. 不限设备使用
+4. 7x24在线客户服务支持
+5. 解锁: Netflix, Disney+, ChatGPT 等
+
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
   <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/xxyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -221,7 +288,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
   <div class="pricing-price">¥6.00 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/laobaixing" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -242,7 +309,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://c.jichangs.com/tnt" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/tnt" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -266,7 +333,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">好好云</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://52hhy.com/register?code=EAkkeWkx" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/hhy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -290,9 +357,9 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">鱼云</div>
+  <div class="pricing-title">渔云</div>
   <div class="pricing-price">¥9.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://cloudfisher.one/web/#/login?code=Xrd2NWzo" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/fisher" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -317,7 +384,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">流量光机场*<span style="color: red;">注册需翻墙</span>*</div>
   <div class="pricing-price">4.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://llgjc1.com/#/register?code=X4BNUzBu" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/llgjc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -339,7 +406,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">淘气兔</div>
   <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/taoqitu" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/taoqitu" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -361,17 +428,38 @@ head:
 7. ✓ 如发现恶意公开订阅立即封号
 8. <span style="color: red;">❌新疆无法使用！请勿下单！</span>
 </div>
-<div>
+<div class="pricing-card">
+  <div class="pricing-title">光速云</div>
+  <div class="pricing-price">8.25 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/guangsu" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：59 GB
+- 速度：不限速
+- 设备数：不限制
+
+使用说明
+
+
+1. 每月流量：59G
+2. 适合只刷刷 TikTok、查资料、偶尔开下油管的朋友，
+3. 适合办公、查邮件、看资料、聊天、轻度视频
+4. 全线原生稳定节点
+5. 晚高峰依旧稳
+6. 解锁 Netflix / Disney+ / ChatGPT / TikTok
 </div>
 </div>
 
-## 【稳定可靠服务】专业高速稳定机场推荐
+## 优质靠谱机场推荐：
 
 <div class="pricing-container">
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/shy" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/shy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -395,7 +483,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">疾风云</div>
   <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://homes.tr25.cn/?code=ReCm" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/jifeng" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -421,7 +509,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">尔湾云</div>
   <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/erwan" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/erwan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -444,33 +532,11 @@ head:
 8. 可用入门版节点
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title">扬帆云</div>
-  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-- **<span style="color: red;">💛限时年付7折优惠</span>**
-- 流量：100 GB
-- 速度：200M
-- 设备数：2
-
-使用说明
-
-1. 套餐有效期 30 天
-2. 流量每月购买日重置
-3. 最多支持1个用户同时在线
-4. 工单客服支持
-5. **<span style="color: red;">👍全球接入节点</span>**
-6. **<span style="color: red;">👍解锁流媒体</span>**
-</div>
 
 <div class="pricing-card">
   <div class="pricing-title">三番云</div>
   <div class="pricing-price">¥15.88 <span class="pricing-unit">每月</span></div>
-  <a href="https://3fan.3f66.net/?code=NuDD6seh" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/3fan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -498,7 +564,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jp.taishan.pro/register?code=45O5EGR9" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/taishan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -522,7 +588,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">FlyBit</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/flybit" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -546,7 +612,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">白羊星</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://baiyangxing.com/#/register?code=I6IGk5n6" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/byx" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -571,7 +637,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/galaxy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -597,7 +663,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://c.jichangs.com/feimao" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/feimao" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -620,7 +686,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">青云梯</div>
   <div class="pricing-price">¥96.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/qyt" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -650,7 +716,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">Jimmm</div>
   <div class="pricing-price">¥14.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jimmm.life/register?code=BgQ1LKH5" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/jimmm" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -671,13 +737,13 @@ head:
 </div>
 </div>
 
-## 【大流量套餐】无限制观影下载首选
+## 大流量机场推荐：
 <div class="pricing-container">
 
 <div class="pricing-card">
   <div class="pricing-title">网际快车</div>
   <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/wjkc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -700,7 +766,7 @@ head:
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://c.jichangs.com/mojie" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/mojie" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -722,7 +788,7 @@ head:
  <div class="pricing-card">
   <div class="pricing-title">良心云</div>
   <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://c.jichangs.com/liangxinyun" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/liangxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -742,10 +808,11 @@ head:
 6. 🫷 无限制使用行为，无存储节点日志，使用更安心
 7. 🔒 军工级TLS1.3加密，保护你的隐私安全
 </div>
+
  <div class="pricing-card">
   <div class="pricing-title">一分机场*<span style="color: red;">注册需翻墙</span>*</div>
   <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://c.jichangs.com/1fen" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/1fen" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -765,6 +832,7 @@ head:
 5. 🎥个人使用不限设备数,解锁Netflix影视
 6. 🈲不允许滥用分享,每日最大套餐20%的使用量，一经发现封号处理
 </div>
+
 </div>
 
 
