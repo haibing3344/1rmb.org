@@ -78,12 +78,13 @@ head:
 一元机场提供多种高性价比VPN套餐，根据您的流量需求、速度要求和设备数量选择最适合的科学上网服务。所有套餐均支持解锁Netflix、Disney+、ChatGPT等流媒体和AI服务。
 
 
+
 :::tip[注意事项]
 - 套餐价格会根据套餐的流量、速度和设备数而有所不同。
 - 根据您的需求和预算选择合适的套餐。
 :::
 
-## 【科学上网流量估算】不同场景流量消耗参考表
+## 流量估算参考表
 
 | 使用场景 | 预估每小时流量消耗 | 建议月流量 |
 | --- | --- | --- |
@@ -97,6 +98,78 @@ head:
 ## 性价比机场推荐：
 
 <div class="pricing-container">
+
+<div class="pricing-card">
+  <div class="pricing-title">山水云</div>
+  <div class="pricing-price">¥12.00<span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/shanshui" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">👑年费八折优惠码：2026888</span>**
+- 流量：100 GB
+- 速度：不限速
+- 设备数：不限制
+
+使用说明
+
+1. 📦流量限制：每月100G次月购买日重置
+2. ⚡️速度限制：最高1Gbps突发与不限速
+3. 🚀优质节点IP：解锁各类AI 流媒体等服务
+4. 📱多平台支持：支持电脑、手机和 iPad
+5. ☎️客服支持：在线客服 售后保障
+
+</div>
+
+
+<div class="pricing-card">
+  <div class="pricing-title">扬帆云<span style="color: red;"><b>👍推荐</b></span></div>
+  <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/yfy" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- **<span style="color: red;">限时年付 7 折优惠码：yf5169</span>**
+- 流量：100 GB
+- 速度：200 Mbps
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
+7. 可用等级一节点
+8. **<span style="color: red;">💛年费套餐7折优惠码：618 </span>**
+</div>
+<div class="pricing-card">
+  <div class="pricing-title">优信云</div>
+  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/youxinyun" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">💛限时年付69折优码：yx51666</span>**
+- 流量：100 GB
+- 速度：200M
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
+</div>
 
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
@@ -122,53 +195,6 @@ head:
 7. 99% 服务可用率保障，稳定可靠
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title">扬帆云<span style="color: red;"><b>👍推荐</b></span></div>
-  <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/yfy" target="_blank" rel="nofollow" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- **<span style="color: red;">限时年付 7 折优惠码：618</span>**
-- 流量：100 GB
-- 速度：200 Mbps
-- 设备数：2
-
-使用说明
-
-1. 套餐有效期 30 天
-2. 流量每月购买日重置
-3. 最多支持1个用户同时在线
-4. 工单客服支持
-5. **<span style="color: red;">👍全球接入节点</span>**
-6. **<span style="color: red;">👍解锁流媒体</span>**
-7. 可用等级一节点
-8. **<span style="color: red;">💛年费套餐7折优惠码：618 </span>**
-</div>
-<div class="pricing-card">
-  <div class="pricing-title">优信云</div>
-  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/youxinyun" target="_blank" rel="nofollow" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-- **<span style="color: red;">💛限时年付85折优码：yx85</span>**
-- 流量：100 GB
-- 速度：200M
-- 设备数：2
-
-使用说明
-
-1. 套餐有效期 30 天
-2. 流量每月购买日重置
-3. 最多支持1个用户同时在线
-4. 工单客服支持
-5. **<span style="color: red;">👍全球接入节点</span>**
-6. **<span style="color: red;">👍解锁流媒体</span>**
-</div>
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
@@ -285,26 +311,6 @@ head:
 
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
-  <div class="pricing-price">¥6.00 <span class="pricing-unit" >每月</span></div>
-  <a href="https://c.jichangs.com/laobaixing" target="_blank" rel="nofollow" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：60 GB
-- 速度：不限制
-- 设备数：2
-
-使用说明
-
-1. 流量按月重置
-2. 支持多平台使用
-3. 7×24小时技术支持
-
-</div>
 
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
@@ -382,26 +388,28 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">流量光机场*<span style="color: red;">注册需翻墙</span>*</div>
-  <div class="pricing-price">4.90 <span class="pricing-unit">每月</span></div>
+  <div class="pricing-title"><span style="color: red;">秒秒云</span></div>
+  <div class="pricing-price">9.00 <span class="pricing-unit">每月</span></div>
   <a href="https://c.jichangs.com/llgjc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：150 GB
+- 流量：128 GB
 - 速度：不限速
-- 设备数：无限制
+- 设备数：3
+- *<span style="color: red;">注优惠券：2026888</span>*
 
 使用说明
 
- 1. 最高倍率: x1 （专线除外，直连节点0倍率）
- 2. 国内高质高速中转入口
- 3. 提供优秀的流媒体解锁与 ChatGPT 解锁
- 4. 国家: 香港, 台湾, 日本, 美国, 新加坡, 韩国,英国, 澳大利亚, 南极洲, 朝鲜
- 5. 通知频道群与工单售后保障 
- 6. **<span style="color: red;">🚀 优惠超值，包全年仅需40元</span>**
+🌠流量政策：128G/月高速流量
+⏳️刷新规则：每 30 天自动刷新流量
+🎡网络带宽：海外中转，低延迟
+🌐解锁能力：支持 Netflix / ChatGPT / TikTok
+🌏设备并发：3台设备同时在线
+💫路由策略：智能路由自动择优，稳定顺滑
+💬客服支持：专业客服，快速响应
 </div>
 <div class="pricing-card">
   <div class="pricing-title">淘气兔</div>
@@ -450,6 +458,26 @@ head:
 4. 全线原生稳定节点
 5. 晚高峰依旧稳
 6. 解锁 Netflix / Disney+ / ChatGPT / TikTok
+</div>
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">宝云</span></div>
+  <div class="pricing-price">4.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/baoyun" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：200 GB
+- 速度：不限速
+- 设备数：2
+
+使用说明
+
+1. 每月 200GB 高速流量
+2. 支持2台设备同时在线
+3. 支持常规流媒体服务
+4. 在线客服 · 售后技术支持
 </div>
 </div>
 
@@ -532,34 +560,6 @@ head:
 8. 可用入门版节点
 </div>
 
-
-<div class="pricing-card">
-  <div class="pricing-title">三番云</div>
-  <div class="pricing-price">¥15.88 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/3fan" target="_blank" rel="nofollow" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-- **<span style="color: red;">👑年费七折优惠码：3fan666</span>**
-- 流量：100 GB
-- 速度：300Mbps
-- 设备数：2
-
-使用说明
-
-1. 🔋 流量：100GB（自动重置）
-2. ⚡ 速度：最高 300Mbps 带宽
-3. 📱 设备数：最多 2 台设备在线
-4. 🌐 多国节点：10个国家高速接入，随心切换
-5. 🌍 全球高速稳定网络 | 流畅无忧
-6. 📽️ 全流媒体解锁：Netflix、Disney+、Hulu等
-7. 🎮 AI & 游戏优化：ChatGPT无障碍，畅玩游戏
-8. 💎 IPLC专线：低延迟，无丢包
-9. ☎️ 专属客服：在线售后，贴心保障
-10. 📌 适合日常上网、高清流媒体播放的用户
-
-</div>
 
 <div class="pricing-card">
   <div class="pricing-title">Taishan</div>
@@ -810,27 +810,29 @@ head:
 </div>
 
  <div class="pricing-card">
-  <div class="pricing-title">一分机场*<span style="color: red;">注册需翻墙</span>*</div>
-  <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://c.jichangs.com/1fen" target="_blank" rel="nofollow" class="buy-button">
+  <div class="pricing-title">熊猫cloud</div>
+  <div class="pricing-price">¥6.00 <span class="pricing-unit" style="color: red;">每月</span></div>
+  <a href="https://c.jichangs.com/xiongmao" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：100 G
-- 速度：20000Mbps
-- 设备数：无限制
+- 流量：300 G
+- 速度：不限制
+- 设备数：3
+- *<span style="color: red;">年付8折优惠码：88888</span>*
 
 使用说明
 
 
-1. ⚡️提供三网高质量线路
-2. 🚀线路带宽最高速度20000Mbps
-3. 🔒全线路安全加密,保护隐私安全！
-4. ⏰每月流量100GB,每30天自动重置流量！
-5. 🎥个人使用不限设备数,解锁Netflix影视
-6. 🈲不允许滥用分享,每日最大套餐20%的使用量，一经发现封号处理
+1. ✨流量：每月 300 GB 流量，每月重置
+2. 🎬流媒体：稳定全流媒体AI解锁
+3. ⚡线路：三网优化精品线路
+4. 💻设备：同时在线 3 台设备
+5. 🧖售后：客服+工单/24小时响应
+6. 🚫限制：发现恶意公开订阅立即封禁
+7. 🚫退款：特殊商品，不支持退款
 </div>
 
 </div>
