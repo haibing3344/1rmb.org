@@ -170,6 +170,31 @@ head:
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">云界线</span></div>
+  <div class="pricing-price">¥96.00 <span class="pricing-unit" style="color: red;">每年</span></div>
+  <a href="https://c.jichangs.com/yunjiexian" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">新用户7折优惠码：yjx888</span>**
+- 流量：150 GB
+- 速度：不限速
+- 设备数：不限制
+
+使用说明
+
+1. 适用人群：适合小流量/新手用户，年付折算约 8 元/月。
+2. 流量政策：60GB/月高速流量（全节点 x1 倍率，晚高峰不限速）。
+3. 刷新规则：购买日起算，每 30 天自动刷新流量。
+4. 网络带宽：全 IPLC 专线，低延迟；单节点峰值最高 2.5Gbps。
+5. 解锁能力：原生 IP，支持 Netflix / Disney+ / ChatGPT / Tiktok 等主流平台。
+6. 设备并发：不限制同时使用客户端数量，多设备自由在线。
+7. 客服支持：高效客服响应，快速处理使用问题。
+8. 节点覆盖：香港×20、台湾×10、日本×10、新加坡×10、美国×10、韩国×2、阿根廷×2、马来西亚、越南、菲律宾、泰国、印度、德国、法国、英国等。
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
   <a href="https://c.jichangs.com/cyberguard" target="_blank" rel="nofollow" class="buy-button">
